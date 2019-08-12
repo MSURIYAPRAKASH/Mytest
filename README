@@ -1,1 +1,6 @@
-This is a git repo
+
+git branch
+git status
+git commit -m "Your Commands"
+git pull origin master
+git push origin master
